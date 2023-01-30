@@ -1,0 +1,28 @@
+#global {
+    color: rgb(66, 17, 227);
+   
+    font-weight: bold;
+}
+
+#tech {
+    color: rgb(255, 0, 0);
+   
+    font-weight: bold;
+
+}
+
+#navbarNavAltMarkup div a:hover {
+      color: rgb(245, 0, 0);
+      text-decoration: underline;
+      
+}
+#navbarNavAltMarkup div a {
+    color: rgb(0, 0, 0);
+   
+   
+}
+
+#update{
+     color: white;
+     background-color: none;
+}
